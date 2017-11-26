@@ -18,7 +18,7 @@ function auto_sign(driver, user){
 
 
 let driver = new Builder()
-    .forBrowser('chrome')
+    .forBrowser('firefox')
     .build();
 
 fs.readFile('users.json',

@@ -1,4 +1,4 @@
 /node_modules/
 chromedriver.exe
-getkodriver.exe
-user.json
+geckodriver.exe
+users.json
